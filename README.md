@@ -1,3 +1,3 @@
 # first-demo
 this is my first git repository <br>
-author -- manisha khatri 
+author -- manisha khatri (mannu)
